@@ -1,0 +1,3 @@
+<div class='message-card' id='message-card'><p><span class='hidden' style='color: #c1b325;'>asterisc</span> Olá</p></div>
+<div class='message-card' id='message-card'><p><span class='hidden' style='color: #698dc1;'>teste</span> Oi</p></div>
+<div class='message-card' id='message-card'><p><span class='hidden' style='color: #c1b325;'>asterisc</span> Bem vindo ao chat em PHP</p></div>
